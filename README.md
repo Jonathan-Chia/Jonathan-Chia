@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, basketball shot mechanics, and investing
 - 🌱 I’m currently learning customer churn modeling, product recommendation systems using NLP, and basic mlops
 - 💞️ I’m looking for data science volunteering opportunities in the mental health industry
-- 📫 Message me on [linkedin](https://www.linkedin.com/in/jonathan-rj-chia/)!
+- 📫 Message me on [LinkedIn](https://www.linkedin.com/in/jonathan-rj-chia/)!
 
 - See my portfolio [here](https://jonathan-chia.github.io/)
 
